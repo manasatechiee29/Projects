@@ -1,0 +1,27 @@
+ctrl + c	copy
+ctrl + x	cut
+ctrl + z	undo
+Alt + =	Sum
+ctrl + b	Bold
+ctrl + s	Save
+alt + v + ctrl	various options control and paste the data
+alt + H	Home tab
+alt + W + F	Freeze Pane
+alt + A + V	Data Validation
+alt + F + A	Save As
+ctrl + home	place the cursor at cell A1 in excel
+ctrl + end	place the cursor at last cell of the dataset 
+ctrl + righttarrow	last cell of the row
+ctrl + left arrow	first cell of the row
+ctrl + uparrow	first cell of the column
+ctrl + downarrow	last cell of the column
+ctrl + F	Find
+ctrl + H	Replace
+ctrl + O	Open the datasets
+ctrl + D	Copy the above dataset
+ctrl + y	redo
+alt + H + I	Insert options
+alt + H + D	Delete options
+alt + H + O	Format options
+alt + H + B + A 	Add Borders
+alt + H + B + N	Undo the Borders added
